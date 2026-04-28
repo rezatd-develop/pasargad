@@ -1,6 +1,6 @@
 @font-face {
   font-family: yekanBold;
-  src: url(../styles/fonts/BYekan+\ Bold.ttf);
+  src: url(../styles/fonts/YekanBakh-Bold.ttf);
 }
 
 @font-face {
@@ -71,4 +71,17 @@ a {
 
 .cursor-pointer {
   cursor: pointer;
+}
+
+.accordion-collapse {
+  transition: all 0.3s ease;
+}
+
+.logo-image {
+  width: 42px;
+  height: 42px;
+}
+
+.no-white-space {
+  white-space: nowrap;
 }

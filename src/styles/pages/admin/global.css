@@ -1,0 +1,10 @@
+.overall-card {
+    background-color: #212429;
+    color: white;
+    transition: all 0.2s;
+}
+
+.overall-card:hover {
+    background-color: white;
+    color: #212429;
+}
